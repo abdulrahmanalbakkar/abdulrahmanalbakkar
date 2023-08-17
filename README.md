@@ -1,4 +1,4 @@
-# Hello there! I'm Abdulrahman Albakkar 👋
+# Hey! I'm Abdulrahman Albakkar 👋
 
 ### 🖥️ A Computer Engineer
 
