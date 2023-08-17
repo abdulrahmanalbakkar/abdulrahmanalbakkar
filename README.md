@@ -8,7 +8,7 @@
 
 💼 Skills & Expertise:
 
-- Languages: Kotlin, Java, C, C++, HTML, CSS, JavaScript, TypeScript.
+- Languages: Kotlin, Java, C, C++, HTML, CSS, JavaScript, Python.
 - Databases: SQL & NoSQL, MySQL, SQLite, MongoDB.
 - Backend & Frameworks: Node.js, Express, Swagger.
 - Frontend: Bootstrap.
