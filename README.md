@@ -9,7 +9,7 @@
 
 ## Skills & Expertise
 
-**Languages:** Kotlin, Java, C++, JavaScript, HTML, CSS, Python  
+**Languages:** Kotlin, Java, C, C++, JavaScript, HTML, CSS, Python  
 **Databases:** MySQL, SQLite, MongoDB, Redis  
 **Web Dev:** Node.js, Express, Bootstrap, jQuery, Swagger  
 **Tools & OS:** GIT, CLI, OOP, Ubuntu, Figma  
