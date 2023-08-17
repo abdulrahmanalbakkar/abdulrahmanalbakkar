@@ -1,36 +1,23 @@
-# Hello, I'm [Abdulrahman Albakkar]! 👋
+# Hello there! I'm Abdulrahman Albakkar 👋
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=[YourGitHubUsername].[YourGitHubUsername])
+### 🖥️ A Computer Engineer
 
-## 🌱 About Me 
+A little bit about me:
 
-- 🎓 I'm currently studying [Your Subject/Field] at [Your University/College].
-- 🔭 I’m currently working on [What You're Working On].
-- 🌱 I’m currently learning [What You're Learning].
-- 🤔 I’m looking for help with [What You Need Help With].
-- 💬 Ask me about [Topics You're Comfortable Discussing].
-- 😄 Pronouns: [Your Pronouns, if you want to include them].
-- ⚡ Fun fact: [Interesting Fact About You].
+- 🎓 Graduated from **Ankara University** with a degree in Computer Engineering.
+- 🚀 Currently enhancing my backend skills at **Re:Coded's Backend Bootcamp**.
+- 📱 Building native Android apps at **[al-awail.com](https://www.al-awail.com)**.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack:
+- Android Development (Native)
+- Backend Technologies (Currently learning at Re:Coded)
 
-![Your Language](https://img.shields.io/badge/-YourLanguageName-YourColorCode?style=flat&logo=YourLanguageLogo&logoColor=white)
-<!-- You can include more badges like the one above for every tech/tool you know -->
+## 🤝 Let's Connect!
+Feel free to reach out if you want to chat about tech, projects, or just want to say hi!
 
-## 📈 GitHub Stats
+- 🌐 [LinkedIn]([Your_LinkedIn_Link_Here](https://www.linkedin.com/in/abdulrahman-albakkar-836175165/))
+- 📧 Email: albakkar997@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact)
-
-## 🤝 Connect with me
-
-- 📧 Email: [Your Email]
-- 🌐 Website: [Your Website]
-- 📞 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [Your Twitter]
-
-<!-- You can include other social media links here -->
-
-⭐️ From [YourGitHubUsername](https://github.com/YourGitHubUsername)
-
+Good luck with your ventures! 🚀
