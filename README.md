@@ -10,7 +10,7 @@ A little bit about me:
 
 ## 🛠️ Tech Stack:
 - Android Development (Native)
-- Backend Technologies (Currently learning at Re:Coded)
+- Backend Technologies (Currently learning at [Re:Coded](https://www.re-coded.com/))
 
 ## 🤝 Let's Connect!
 Feel free to reach out if you want to chat about tech, projects, or just want to say hi!
