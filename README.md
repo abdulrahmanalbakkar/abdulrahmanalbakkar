@@ -17,7 +17,3 @@ Feel free to reach out if you want to chat about tech, projects, or just want to
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abdulrahman-albakkar-836175165/)
 - 📧 albakkar997@gmail.com
-
----
-
-Good luck with your ventures! 🚀
