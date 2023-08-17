@@ -8,25 +8,13 @@
 
 ## 🛠️ Skills & Expertise
 
-### **Languages**
-- Kotlin, Java, C, C++, JavaScript, HTML, CSS, Python
-
-### **Databases**
-- MySQL, SQLite, MongoDB, Redis
-
-### **Backend & Frontend**
-- Node.js, Express, Bootstrap, jQuery, Swagger
-
-### **Tools, OS & Practices**
-- GIT, CLI, OOP, CRUD, RESTful APIs, Software Design Patterns, Figma, Linux Ubuntu
-
-### **Cloud & Deployment**
-- AWS, Docker, Cloud Computing, WebSockets
-
-### **Soft Skills & Languages**
-- Time Management, Teamwork, Business Communication
-- Fluent in English & Turkish; Native in Arabic.
-
+**Languages:** Kotlin, Java, C++, JavaScript, HTML, CSS, Python  
+**Databases:** MySQL, SQLite, MongoDB, Redis  
+**Web Dev:** Node.js, Express, Bootstrap, jQuery, Swagger  
+**Tools & OS:** GIT, CLI, OOP, Ubuntu, Figma  
+**Cloud & Deployment:** AWS, Docker, WebSockets  
+**Soft Skills:** Time Management, Teamwork, Communication  
+**Languages:** Fluent in English & Turkish; Native in Arabic.
 
 ## 🤝 Let's Connect!
 Feel free to reach out if you want to chat about tech, projects, or just want to say hi!
