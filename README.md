@@ -5,8 +5,8 @@
 A little bit about me:
 
 - 🎓 Graduated from **[Ankara University](https://www.ankara.edu.tr/en/)** with a degree in Computer Engineering.
-- 🚀 Currently enhancing my backend skills at **Re:Coded's Backend Bootcamp**.
 - 📱 Building native Android apps at **[al-awail.com](https://www.al-awail.com)**.
+- 🚀 Currently enhancing my backend skills at **Re:Coded's Backend Bootcamp**.
 
 💼 Skills & Expertise:
 
