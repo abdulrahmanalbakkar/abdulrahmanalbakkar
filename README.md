@@ -16,7 +16,7 @@ A little bit about me:
 Feel free to reach out if you want to chat about tech, projects, or just want to say hi!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abdulrahman-albakkar-836175165/)
-- 📧 Email: albakkar997@gmail.com
+- 📧 [Email](albakkar997@gmail.com)
 
 ---
 
