@@ -3,7 +3,7 @@
 ### A Computer Engineer
 
 - Graduated from **[Ankara University](https://www.ankara.edu.tr/en/)** with a degree in Computer Engineering.
-- Building native Android apps at **[al-awail.com](https://www.al-awail.com)**.
+- Has built native Android apps for **[al-awail.com](https://www.al-awail.com)**.
 - Recently graduated from **[re:coded](https://www.re-coded.com/)'s Backend Bootcamp**, sharpening my backend skills.
 - **Actively seeking suitable job opportunities.**
 
