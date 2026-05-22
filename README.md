@@ -20,4 +20,4 @@ Kotlin, Java, Jetpack Compose, XML, Coroutines & Flow, MVVM, Clean Architecture,
 I'm always open to interesting opportunities in Android development. I speak native Arabic, and fluent English and Turkish. 
 
 * **LinkedIn:** [abdulrahman-albakkar](https://www.linkedin.com/in/abdulrahman-albakkar/)
-* **Email:** albakkar996@gmail.com
+* **Email:** albakkar997@gmail.com
