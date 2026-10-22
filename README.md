@@ -1,6 +1,6 @@
 # Hi, I'm Abdulrahman 👋
 
-Android Software Engineer in Ankara, Türkiye · 4+ years building production apps in Kotlin and Jetpack Compose · Open to remote.
+Android Software Engineer in Ankara, Türkiye · 4+ years building production apps · Open to remote.
 
 ## Tech
 
